@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saraviacarbajaldeyvisalejandro-code.github.io/floreria-maritza/sitemap.xml
